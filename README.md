@@ -1,4 +1,4 @@
-Código fonte adaptado por mim om diversas melhorias.
+Código fonte adaptado por mim, com diversas melhorias.
 - imagem de fundo aleatoria e animada
 - novo visual para o Char
 - Adicionado Admob

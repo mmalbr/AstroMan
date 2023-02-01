@@ -1,3 +1,12 @@
+Código fonte adaptado por mim om diversas melhorias.
+- imagem de fundo aleatoria e animada
+- novo visual para o Char
+- Adicionado Admob
+- Recompensa ao assisir anuncio completo
+- muito mais...
+
+os crédito e informações originais estão listadoa abaixo!
+
 # COIN MAN - BY AADARSH
   So happy to share my first game that I made in Android Studio with the help of GDX Environment.
 

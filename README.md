@@ -2,8 +2,10 @@ Código fonte adaptado por mim, com diversas melhorias.
 - imagem de fundo aleatoria e animada
 - novo visual para o Char
 - Adicionado Admob
-- Recompensa ao assisir anuncio completo
+- Recompensa ao assistir anúncio completo
 - muito mais...
+
+
 
 os crédito e informações originais estão listadoa abaixo!
 
